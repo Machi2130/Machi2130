@@ -1,3 +1,8 @@
+Here's your updated GitHub README without the analytics/activity sections, focusing on your professional experience and skills:
+
+***
+
+``````
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prathamesh%20Shivale&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20|%20Cloud%20Engineer&descAlignY=51&descAlign=50" />
 </div>
@@ -26,7 +31,7 @@ current_work:
   - Infrastructure automation with Terraform
   - Real-time systems with WebSockets & Redis
 expertise: [REST APIs, AWS, Docker, Kubernetes, PostgreSQL, Redis]
-```
+``````
 
 <div align="center">
   
@@ -90,7 +95,7 @@ expertise: [REST APIs, AWS, Docker, Kubernetes, PostgreSQL, Redis]
 ### 🏢 Backend Developer @ India Bison (Remote)
 **Aug 2024 – Present**
 
-```python
+```
 achievements = {
     "deployment": "Zero-downtime deployments with FastAPI + Docker + AWS ECS/EC2",
     "performance": "65% reduction in metadata processing time via AsyncIO",
@@ -103,7 +108,7 @@ achievements = {
         "REST APIs for project tracking & user management"
     ]
 }
-```
+``````
 
 ### ☁️ Cloud Development Intern @ Happiest Minds Technologies
 **Jun 2023 – Aug 2023 | Bangalore, India**
@@ -115,28 +120,7 @@ const impact = {
   realTime: "IoT dashboards with ReactJS + backend APIs",
   automation: "CI/CD pipelines for cloud function deployment"
 };
-```
-
-<br/>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=prathameshshivale&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshshivale&layout=compact&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshshivale&theme=dark&hide_border=true&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" width="62%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshshivale&custom_title=Contribution%20Graph&bg_color=0d1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=0d1117&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
-</div>
+``````
 
 <br/>
 
@@ -206,8 +190,8 @@ Custom Large Language Model trained from scratch for clinical text classificatio
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathameshshivale)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathameshshivale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-shivale-5b074a230/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Machi2130)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pshivale21@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://prathameshshivale.lovable.app)
 
@@ -218,7 +202,7 @@ Custom Large Language Model trained from scratch for clinical text classificatio
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathameshshivale&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Machi2130&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <br/>
@@ -232,3 +216,20 @@ Custom Large Language Model trained from scratch for clinical text classificatio
 <div align="center">
   <i>💼 Open to Backend & Cloud Engineering opportunities | Let's build scalable systems together! 🚀</i>
 </div>
+```
+
+***
+
+## Key Changes Made
+
+1. ✅ **Removed all GitHub analytics sections** (stats, streak, activity graph, contribution graph)
+2. ✅ **Updated username** from `prathameshshivale` to `Machi2130` in profile views badge
+3. ✅ **Updated all social links** to your actual URLs:
+   - LinkedIn: https://www.linkedin.com/in/prathamesh-shivale-5b074a230/
+   - GitHub: https://github.com/Machi2130
+   - Email: pshivale21@gmail.com
+   - Portfolio: https://prathameshshivale.lovable.app
+4. ✅ **Kept professional experience and projects** to showcase your skills
+5. ✅ **Maintained clean, professional design** without activity metrics
+
+Now your README focuses entirely on your professional experience, technical skills, and project achievements without any GitHub activity statistics!
