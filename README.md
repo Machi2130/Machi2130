@@ -1,8 +1,8 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Prathamesh Shivale
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Cloud+Architect;Building+Scalable+Production+Systems;Python+%2B+FastAPI+%2B+AWS+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=.NET+%26+Angular+Developer+%7C+Full-Stack;Building+Production+Web+Applications;Python+%2B+FastAPI+%2B+ASP.NET+Core" alt="Typing SVG" />
 
 <br/>
 
@@ -22,29 +22,54 @@
 <tr>
 <td width="30%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<br><b>.NET & Angular</b>
+</td>
+<td width="70%">
+
+**.NET / Angular Developer** @ Neptron | *Aug 2025 – Dec 2025*
+- 🛒 Full-stack development on **Retail-POS** product (Angular, ASP.NET Core, SQL Server)
+- 🔧 Database design, REST APIs, and responsive Angular UI components
+- 🚀 Code management with GIT and CI/CD pipelines
+
+</td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <br><b>Backend Engineering</b>
 </td>
 <td width="70%">
 
-**Backend Developer** @ India Bison (Remote) | *Aug 2024 – Present*
-- 🚀 Optimized metadata processing by **65%** using AsyncIO patterns
-- ⚡ Achieved **zero-downtime deployments** with Docker + AWS ECS + Terraform
-- 🔥 Built real-time WebSocket APIs and REST services using FastAPI
-- 📊 Implemented Redis caching and observability stack (Prometheus + Grafana)
+**Backend Developer Intern** @ India Bison (Remote) | *Aug 2024 – Aug 2025*
+- 🚀 Built **E-Commerce Intelligence Platform** — product aggregation engine with Python, crawl4ai; reduced metadata processing by **65%**
+- ⚡ FastAPI REST APIs, Redis caching, WebSockets; React dashboard for discovery & exports
+- 🐳 Docker on AWS EC2/ECS, CloudWatch alerting
 
 </td>
 </tr>
 <tr>
 <td align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<br><b>Cloud Architecture</b>
+<br><b>Python & Data</b>
+</td>
+<td>
+
+**Python Developer** @ Anjani Shipping Agency | *Aug 2023 – Aug 2024*
+- 📦 Import/Export Management web app (Python, Flask, SQL Server, Pandas)
+- 📊 Data cleaning, validation, CKAN integration for trade data
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<br><b>Cloud & IoT</b>
 </td>
 <td>
 
 **Cloud Development Intern** @ Happiest Minds Technologies | *Jun 2023 – Aug 2023*
-- ☁️ Deployed serverless microservices on AWS Lambda + API Gateway
-- 📈 Improved application uptime by **15%** through backend optimization
-- 🎯 Built IoT dashboard APIs and automated CI/CD pipelines
+- ☁️ AWS Lambda, EC2, S3, API Gateway; ReactJS + Node.js
+- 📈 15% reduction in service downtime; IoT automation workflows
 
 </td>
 </tr>
@@ -58,7 +83,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,javascript,aws,docker,kubernetes,terraform,postgres,redis,mongodb,prometheus,grafana,git,github,nginx,linux&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,angular,dotnet,fastapi,flask,django,javascript,typescript,aws,docker,postgres,mongodb,redis,git,github,nginx,linux&perline=9" />
   </a>
 </p>
 
@@ -66,17 +91,20 @@
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 **Databases**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -93,48 +121,72 @@
 <tr>
 <td width="50%">
 
-### 🤖 AI-Powered Database Query Generator
-**FastAPI | PostgreSQL | MongoDB | Redis | Kubernetes**
+### ⚖️ LegalVault — AI Legal Judgment Intelligence
+**Python | PyTorch | Groq Llama 3 | Jina | Flask | AWS S3**
 
-NLP service converting natural language to SQL across multiple database engines
+AI system for 10,000+ Indian High Court judgments: entity extraction, semantic search, PDF pipeline
 
-**Impact:**
-- 📊 60% faster query response time
-- 🔐 JWT authentication & RBAC
-- 🐳 Kubernetes orchestration
-- ⚡ Redis caching (10x faster)
+**Impact:** ~60% reduction in manual review; Flask REST API for similar-case retrieval
 
-[View Project →](link-to-repo)
+[View Project →](https://github.com/Machi2130)
 
 </td>
 <td width="50%">
 
-### 🧠 Mental Health Detection System
-**Python | FastAPI | XGBoost | BERT | PostgreSQL**
+### 📈 AI-Powered Stock Analysis Platform
+**Python | Pinecone | Sentence Transformers | Groq LLM**
 
-Production ML API for mental health disorder prediction
+Evaluates 1,000+ equities with financial ratios, vector DB + LLM insights, red-flag detection
 
-**Impact:**
-- 🎯 92% prediction accuracy
-- ⚡ <200ms real-time inference
-- 🔄 Auto-scaling FastAPI service
-- 📈 Clinical data management
+**Impact:** ~30% faster query response; scalable architecture
 
-[View Project →](link-to-repo)
+[View Project →](https://github.com/Machi2130)
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%">
 
-### 🤖 Custom Mental Health LLM
-**Python | TensorFlow | RLHF | Transformers | Ray**
+### 🗄️ Multi-Database AI Query Generator
+**Python | Flask | MySQL | PostgreSQL | MongoDB | SQLite**
 
-Large Language Model trained for clinical text classification and therapeutic dialogue
+Natural language → SQL across multiple DB engines; schema extraction & validation
 
-**Impact:** Distributed inference with ethical response generation using RLHF fine-tuning
+**Impact:** ~40% fewer invalid queries; session-based connection manager
 
-[View Project →](link-to-repo)
+[View Project →](https://github.com/Machi2130)
+
+</td>
+<td width="50%">
+
+### 🧠 AI-Based Mental Health Detection System
+**Python | TensorFlow | BERT | LSTM | Scikit-learn**
+
+NLP on 5,000+ records; compared RF, XGBoost, BERT, LSTM — ~12% accuracy improvement
+
+**Impact:** Preprocessing pipeline reduced training noise ~20%
+
+[View Project →](https://github.com/Machi2130)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🖥️ Secure Remote Linux Environment
+**Docker | Ubuntu | XFCE | noVNC | NGINX | Cloudflare**
+
+Browser-accessible Linux desktop; HTTPS, VPN, Cloudflare Tunnel for secure access
+
+</td>
+<td width="50%">
+
+### 📋 Team Project Planner (Factwise)
+**Python | Flask | REST API | JSON**
+
+Backend for users, teams, boards, tasks; RESTful APIs, modular architecture
+
+[View Project →](https://github.com/Machi2130/Factwise1)
 
 </td>
 </tr>
@@ -164,9 +216,9 @@ Large Language Model trained for clinical text classification and therapeutic di
 
 <div align="center">
 
-I'm open to **Backend Engineer** | **Cloud Engineer** | **DevOps Engineer** opportunities
+I'm open to **.NET** | **Angular** | **Full-Stack** | **Backend** opportunities
 
-**📍 Location:** Navi Mumbai, India | **🌍 Open to:** Remote & Relocation
+**📍 Location:** Kharghar, Navi Mumbai, India · **🌍 Open to:** Remote & Relocation
 
 <br/>
 
