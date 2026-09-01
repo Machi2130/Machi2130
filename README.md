@@ -1,236 +1,144 @@
 <div align="center">
 
-# 👋 Hi, I'm Prathamesh Shivale
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=.NET+%26+Angular+Developer+%7C+Full-Stack;Building+Production+Web+Applications;Python+%2B+FastAPI+%2B+ASP.NET+Core" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-shivale-5b074a230/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://prathameshshivale.lovable.app)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pshivale21@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=700&color=00FF41&center=true&vCenter=true&width=720&lines=prathamesh%40github%3A~%24+whoami;%3E+Backend+%26+AI%2FML+Engineer+%E2%80%94+Navi+Mumbai%2C+India;prathamesh%40github%3A~%24+.%2Falgo+--backtest+--universe+139;%3E+CAGR%3A+23.2%25+%7C+Sharpe%3A+1.03+%7C+OOS+folds%3A+88.9%25+profitable;prathamesh%40github%3A~%24+cat+mission.txt;%3E+I+build+systems+where+data+becomes+decisions." alt="terminal session" />
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+```console
+prathamesh@github:~$ whoami
+```
 
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="30%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<br><b>.NET & Angular</b>
-</td>
-<td width="70%">
-
-**.NET / Angular Developer** @ Neptron | *Aug 2025 – Dec 2025*
-- 🛒 Full-stack development on **Retail-POS** product (Angular, ASP.NET Core, SQL Server)
-- 🔧 Database design, REST APIs, and responsive Angular UI components
-- 🚀 Code management with GIT and CI/CD pipelines
-
-</td>
-</tr>
-<tr>
-<td width="30%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<br><b>Backend Engineering</b>
-</td>
-<td width="70%">
-
-**Backend Developer Intern** @ India Bison (Remote) | *Aug 2024 – Aug 2025*
-- 🚀 Built **E-Commerce Intelligence Platform** — product aggregation engine with Python, crawl4ai; reduced metadata processing by **65%**
-- ⚡ FastAPI REST APIs, Redis caching, WebSockets; React dashboard for discovery & exports
-- 🐳 Docker on AWS EC2/ECS, CloudWatch alerting
-
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<br><b>Python & Data</b>
-</td>
-<td>
-
-**Python Developer** @ Anjani Shipping Agency | *Aug 2023 – Aug 2024*
-- 📦 Import/Export Management web app (Python, Flask, SQL Server, Pandas)
-- 📊 Data cleaning, validation, CKAN integration for trade data
-
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<br><b>Cloud & IoT</b>
-</td>
-<td>
-
-**Cloud Development Intern** @ Happiest Minds Technologies | *Jun 2023 – Aug 2023*
-- ☁️ AWS Lambda, EC2, S3, API Gateway; ReactJS + Node.js
-- 📈 15% reduction in service downtime; IoT automation workflows
-
-</td>
-</tr>
-</table>
+```
+name      Prathamesh Shivale
+role      Backend & AI/ML Engineer
+location  Kharghar, Navi Mumbai, India
+status    open to Remote · Full-time · Relocation
+links     linkedin.com/in/prathamesh-shivale-5b074a230
+          pshivale21@gmail.com
+```
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+```console
+prathamesh@github:~$ cat about.txt
+```
 
-## 🛠️ Tech Stack
+```
+I build systems where data becomes decisions.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,angular,dotnet,fastapi,flask,django,javascript,typescript,aws,docker,postgres,mongodb,redis,git,github,nginx,linux&perline=9" />
-  </a>
-</p>
+A multi-strategy trading engine that clears 23.2% CAGR across 11 years
+of NSE data, currently in paper-trading validation before live capital.
+
+A hybrid query engine that answers natural language over SQL databases
+and unstructured documents in one auditable response — 85% fewer tokens
+than naive full-schema prompting.
+
+An AI pipeline that processed 10,000+ Indian High Court judgments,
+cutting manual review workload by ~60%.
+```
+
+---
+
+```console
+prathamesh@github:~$ ls -lt experience/
+```
+
+```
+Aug 2025  .NET & Angular Developer     Neptron
+          Retail-POS product · Angular + ASP.NET Core + SQL Server
+          REST APIs, DB design, responsive UI, GIT + CI/CD
+
+Aug 2024  Backend Developer Intern     India Bison (Remote)
+          E-Commerce Intelligence Platform · Python + crawl4ai + FastAPI
+          65% metadata processing reduction · Redis · Docker on AWS ECS
+
+Aug 2023  Python Developer             Anjani Shipping Agency
+          Import/Export Management app · Flask + SQL Server + Pandas
+          CKAN integration for trade data pipelines
+
+Jun 2023  Cloud Development Intern     Happiest Minds Technologies
+          AWS Lambda, EC2, S3, API Gateway · ReactJS + Node.js
+          15% reduction in service downtime · IoT automation workflows
+```
+
+---
+
+```console
+prathamesh@github:~$ ls projects/ --sort=impact
+```
+
+```
+📈  nse-algo-trading/     23.2% CAGR · Sharpe 1.03 · max DD −11.1% · 139 stocks
+                          88.9% walk-forward folds profitable · Angel One paper trader
+
+🗄️  hybridsql/            NL → SQL + RAG in one auditable answer
+                          ~85% token reduction · 7 DB types · MCP server (10 tools)
+
+⚖️  legalvault/           10,000+ Indian High Court judgments
+                          semantic search · entity extraction · ~60% manual review cut
+
+📊  stock-analyzer/       1,000+ equities · Pinecone vector DB + LLM insights
+                          nonlinear valuation scoring · automated red-flag detection
+
+🧠  mental-health-ai/     BERT + LSTM · 5,000+ records · ~12% accuracy improvement
+                          RF / XGBoost / BERT / LSTM compared
+
+🖥️  secure-linux-env/     Docker + XFCE + noVNC · Cloudflare Tunnel · zero port exposure
+                          NGINX reverse proxy · HTTPS · VPN + firewall rules
+
+📋  factwise-planner/     REST API · abstract base classes · JSON persistence
+                          users · teams · boards · task workflows
+```
+
+---
+
+```console
+prathamesh@github:~$ cat skills.txt
+```
+
+```
+languages    Python · TypeScript · C# · JavaScript · SQL
+frameworks   FastAPI · Flask · .NET Core · Angular · React · Django
+ai / ml      Groq · ChromaDB · FAISS · BM25 · NetworkX · PyTorch · BERT · LSTM
+trading      yfinance · Angel One SmartAPI · pandas · walk-forward validation · ATR sizing
+databases    PostgreSQL · MySQL · MongoDB · Redis · SQL Server · SQLite · Cassandra
+devops       Docker · AWS (EC2 / ECS / S3 / Lambda) · NGINX · CI/CD · Git · CloudWatch
+```
+
+---
+
+```console
+prathamesh@github:~$ git log --oneline --graph --all
+```
 
 <div align="center">
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Databases**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚖️ LegalVault — AI Legal Judgment Intelligence
-**Python | PyTorch | Groq Llama 3 | Jina | Flask | AWS S3**
-
-AI system for 10,000+ Indian High Court judgments: entity extraction, semantic search, PDF pipeline
-
-**Impact:** ~60% reduction in manual review; Flask REST API for similar-case retrieval
-
-[View Project →](https://github.com/Machi2130)
-
-</td>
-<td width="50%">
-
-### 📈 AI-Powered Stock Analysis Platform
-**Python | Pinecone | Sentence Transformers | Groq LLM**
-
-Evaluates 1,000+ equities with financial ratios, vector DB + LLM insights, red-flag detection
-
-**Impact:** ~30% faster query response; scalable architecture
-
-[View Project →](https://github.com/Machi2130)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🗄️ Multi-Database AI Query Generator
-**Python | Flask | MySQL | PostgreSQL | MongoDB | SQLite**
-
-Natural language → SQL across multiple DB engines; schema extraction & validation
-
-**Impact:** ~40% fewer invalid queries; session-based connection manager
-
-[View Project →](https://github.com/Machi2130)
-
-</td>
-<td width="50%">
-
-### 🧠 AI-Based Mental Health Detection System
-**Python | TensorFlow | BERT | LSTM | Scikit-learn**
-
-NLP on 5,000+ records; compared RF, XGBoost, BERT, LSTM — ~12% accuracy improvement
-
-**Impact:** Preprocessing pipeline reduced training noise ~20%
-
-[View Project →](https://github.com/Machi2130)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🖥️ Secure Remote Linux Environment
-**Docker | Ubuntu | XFCE | noVNC | NGINX | Cloudflare**
-
-Browser-accessible Linux desktop; HTTPS, VPN, Cloudflare Tunnel for secure access
-
-</td>
-<td width="50%">
-
-### 📋 Team Project Planner (Factwise)
-**Python | Flask | REST API | JSON**
-
-Backend for users, teams, boards, tasks; RESTful APIs, modular architecture
-
-[View Project →](https://github.com/Machi2130/Factwise1)
-
-</td>
-</tr>
-</table>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Machi2130&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Machi2130&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Machi2130&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Machi2130&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machi2130&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Machi2130&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff&area=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machi2130&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 📫 Let's Connect
+```console
+prathamesh@github:~$ cat contact.txt
+```
 
 <div align="center">
 
-I'm open to **.NET** | **Angular** | **Full-Stack** | **Backend** opportunities
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-shivale-5b074a230/)
+[![Portfolio](https://img.shields.io/badge/portfolio-00FF41?style=flat-square&logo=firefox&logoColor=black)](https://prathameshshivale.lovable.app)
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pshivale21@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918169703820)
 
-**📍 Location:** Kharghar, Navi Mumbai, India · **🌍 Open to:** Remote & Relocation
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-shivale-5b074a230/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://prathameshshivale.lovable.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pshivale21@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918169703820)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Machi2130&color=3B82F6&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Machi2130&color=00FF41&style=flat-square&label=profile+views)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+```console
+prathamesh@github:~$ █
+```
