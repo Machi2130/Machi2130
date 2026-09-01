@@ -1,54 +1,83 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0D1B2A,100:0A2540&height=220&section=header&text=Prathamesh%20Shivale&fontColor=E8F4FD&fontSize=52&fontAlignY=62&animation=fadeIn&desc=Backend%20%26%20AI%2FML%20Engineer%20%E2%80%94%20building%20systems%20where%20data%20becomes%20decisions&descFontSize=15&descAlignY=80&descFontColor=7FBFDF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1B2A,50:0A2540,100:00D4FF&height=300&section=header&text=Prathamesh%20Shivale&fontColor=E8F4FD&fontSize=60&fontAlignY=45&animation=fadeIn&stroke=00D4FF&strokeWidth=1" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2200&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=23.2%25+CAGR+%C2%B7+Sharpe+1.03+%C2%B7+88.9%25+OOS+folds+profitable;%7E85%25+LLM+token+reduction+%C2%B7+7+DB+types+%C2%B7+MCP+server;10%2C000%2B+legal+documents+%C2%B7+60%25+manual+review+cut;Open+to+Remote+%C2%B7+Full-time+%C2%B7+Relocation+%E2%80%94+Navi+Mumbai%2C+India" alt="metrics" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=I+build+systems+where+data+becomes+decisions;Backend+%C2%B7+AI%2FML+%C2%B7+Algo+Trading+%C2%B7+NLP;shipping+things+that+work+in+production+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-shivale-5b074a230/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=firefox&logoColor=black)](https://prathameshshivale.lovable.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pshivale21@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Machi2130&color=00D4FF&style=for-the-badge&label=Profile+Views)](https://github.com/Machi2130)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=0D1B2A)](https://prathameshshivale.lovable.app)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pshivale21@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918169703820)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Machi2130&color=00D4FF&style=flat-square&label=visitors)
+![GitHub followers](https://img.shields.io/github/followers/Machi2130?style=flat-square&color=0A2540&labelColor=0D1117&logo=github&label=Followers)
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Who Am I
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-## What I Build
+```yaml
+name: Prathamesh Shivale
+location: Navi Mumbai, India
+role: Backend & AI/ML Engineer
 
-I build systems at the intersection of data, AI, and scale.
+what_drives_me: >
+  I don't build for demos —
+  I build for production.
+  If it can't handle real data,
+  real users, or real markets,
+  it's not done yet.
 
-**→ Trading** — multi-strategy NSE backtester, 139 stocks, 11 years, live paper trading on Angel One  
-**→ AI/ML** — hybrid SQL + RAG query engines, legal NLP pipelines, vector search, MCP servers  
-**→ Backend** — FastAPI · .NET Core · Angular · Docker · AWS · Redis
+right_now:
+  shipping: NSE algo system (live paper trading)
+  exploring: MCP protocol & agentic AI
+  learning: market microstructure
 
-I care more about shipping systems that work under real conditions than systems that look good in demos.
+open_to:
+  - Remote / Full-time positions
+  - Open-source collaborations
+  - Hard problems involving AI + data
+```
 
 </td>
-<td width="42%" align="center" valign="top">
+<td width="45%" align="center" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/225023052-b4e8e9e0-3b8a-4a4c-b1e5-c3bfb0d8af05.gif" width="300" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Machi2130&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8&card_width=340">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machi2130&layout=compact&hide_border=true&langs_count=8&card_width=340" alt="Top Languages" />
+</picture>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## ⚡ Currently
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED SYSTEMS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-> Active work — updated regularly
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Things I've Built
 
-- 📈 **Paper-trading** the NSE algo on Angel One SmartAPI — validating the 23.2% CAGR edge on live data before real capital deployment
-- 🗄️ **Extending HybridSQL** — adding a frontend UI for document upload and Salesforce/Jira connectors
-- 🌍 **Open to** Backend · AI/ML · Full-Stack roles — Remote preferred, open to relocation
-
----
-
-## 🚀 Featured Systems
+> *Each of these solves a real problem. No toy projects.*
 
 <table>
 <tr>
@@ -56,31 +85,45 @@ I care more about shipping systems that work under real conditions than systems 
 
 ### 📈 NSE Algo Trading System
 
-![CAGR](https://img.shields.io/badge/CAGR-23.2%25-00D4FF?style=flat-square)
-![Sharpe](https://img.shields.io/badge/Sharpe-1.03-00D4FF?style=flat-square)
-![MaxDD](https://img.shields.io/badge/Max%20DD-%E2%88%9211.1%25-555555?style=flat-square)
-![OOS](https://img.shields.io/badge/OOS%20Folds-88.9%25%20profitable-00D4FF?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/CAGR-23.2%25-00D4FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Sharpe-1.03-00D4FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Max%20DD--11.1%25-FF6B6B?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/OOS-88.9%25%20profitable-00E676?style=flat-square&labelColor=0D1117" />
+</p>
 
-**Python · pandas · yfinance · Flask · Angel One SmartAPI**
+Multi-strategy backtester across **139 NSE equities** over 11 years. Walk-forward validation (9 folds), ATR position sizing, rolling circuit breaker, live SSE terminal. Currently in **paper-trading on Angel One.**
 
-Multi-strategy backtester over 139 NSE equities (2015–2026). Parallel walk-forward validation (9 folds, 2yr train / 1yr test). ATR-floor position sizing, rolling circuit breaker, live SSE terminal UI.
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Angel_One-FF6B00?style=flat-square&logoColor=white" />
+</p>
 
-[View Project →](https://github.com/Machi2130)
+<a href="https://github.com/Machi2130"><img src="https://img.shields.io/badge/View_Project_→-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗄️ HybridSQL — NL to SQL + RAG
 
-![Tokens](https://img.shields.io/badge/Token%20Reduction-%7E85%25-00D4FF?style=flat-square)
-![DBs](https://img.shields.io/badge/DB%20Types-7-555555?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP%20Tools-10-00D4FF?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/Token_Cut-~85%25-00D4FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/DB_Types-7-00D4FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MCP_Tools-10-00E676?style=flat-square&labelColor=0D1117" />
+</p>
 
-**Python · FastAPI · Groq Llama 3 · ChromaDB · FAISS · NetworkX**
+Ask questions in English → get auditable SQL + document answers. 3-signal schema retriever, 60/40 BM25+vector DocStore, NetworkX join graphs. Ships as an **MCP server for Claude Desktop & Cursor.**
 
-Answers natural language over SQL databases and unstructured docs in one auditable response. 3-signal schema retriever (semantic + BM25 + column heuristics). 60/40 BM25+vector DocStore. NetworkX join-path graph. MCP server for Claude Desktop & Cursor.
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-0078D4?style=flat-square&logoColor=white" />
+</p>
 
-[View Project →](https://github.com/Machi2130)
+<a href="https://github.com/Machi2130"><img src="https://img.shields.io/badge/View_Project_→-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" /></a>
 
 </td>
 </tr>
@@ -89,133 +132,221 @@ Answers natural language over SQL databases and unstructured docs in one auditab
 
 ### ⚖️ LegalVault — AI Legal Intelligence
 
-![Docs](https://img.shields.io/badge/Judgments-10%2C000%2B-00D4FF?style=flat-square)
-![Review](https://img.shields.io/badge/Manual%20Review%20Cut-60%25-00D4FF?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/Judgments-10%2C000%2B-00D4FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Review_Cut-60%25-00E676?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/GPU_Accelerated-✓-FF6B6B?style=flat-square&labelColor=0D1117" />
+</p>
 
-**Python · PyTorch · Groq Llama 3 · Jina Embeddings · Flask · AWS S3**
+Turns 10K+ Indian High Court judgments into searchable intelligence. LLM entity extraction, GPU-accelerated Jina embeddings, automated PDF pipeline, similar-case retrieval API.
 
-Processes Indian High Court judgments — LLM entity extraction, GPU-accelerated semantic search via Jina + PyTorch, automated PDF pipeline, Flask REST API for similar-case retrieval.
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Jina_AI-009FE3?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
+</p>
 
-[View Project →](https://github.com/Machi2130)
+<a href="https://github.com/Machi2130"><img src="https://img.shields.io/badge/View_Project_→-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📋 Team Project Planner (Factwise)
 
-![REST](https://img.shields.io/badge/Architecture-RESTful%20API-555555?style=flat-square)
-![Lang](https://img.shields.io/badge/Python-Flask-00D4FF?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/Architecture-Clean_OOP-00D4FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/API-RESTful-00E676?style=flat-square&labelColor=0D1117" />
+</p>
 
-**Python · Flask · REST API · JSON**
+Complete backend for users, teams, boards, and task workflows. Abstract base classes, clean separation of concerns, JSON persistence, extensible design.
 
-Backend for users, teams, boards, and task workflows. Abstract base classes, RESTful APIs, JSON-based persistence layer.
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" />
+</p>
 
-[View Project →](https://github.com/Machi2130/Factwise1)
+<a href="https://github.com/Machi2130/Factwise1"><img src="https://img.shields.io/badge/View_Project_→-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" /></a>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,angular,react,dotnet,fastapi,flask,django&perline=10" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis,docker,aws,nginx,git,linux&perline=10" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech I Work With
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Machi2130&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Machi2130&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,dotnet,angular,react&theme=dark" />
+
+<br/><br/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-0078D4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+
+<br/><br/>
+
+**Infrastructure & Data**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,nginx,git,linux&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
 </div>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machi2130&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8" />
-</div>
+<br/>
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Machi2130&bg_color=0D1117&color=00D4FF&line=0A2540&point=00D4FF&area=true&hide_border=true&area_color=0A2540" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- EXPERIENCE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
+## 💼 Where I've Worked
 
-## 🏆 Trophies
+```mermaid
+graph LR
+    A["☁️ Cloud Intern\nHappiest Minds\nJun–Aug 2023"] -->|AWS Lambda, EC2, S3| B["🐍 Python Dev\nAnjani Shipping\nAug 2023–Aug 2024"]
+    B -->|Flask, SQL Server, Pandas| C["⚙️ Backend Intern\nIndia Bison\nAug 2024–Aug 2025"]
+    C -->|FastAPI, Redis, Docker| D["🔷 .NET/Angular Dev\nNeptron\nAug–Dec 2025"]
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Machi2130&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
+    style A fill:#0A2540,stroke:#00D4FF,color:#E8F4FD
+    style B fill:#0A2540,stroke:#00D4FF,color:#E8F4FD
+    style C fill:#0A2540,stroke:#00D4FF,color:#E8F4FD
+    style D fill:#0D1B2A,stroke:#00D4FF,color:#00D4FF,stroke-width:2px
+```
 
----
+<br/>
 
-## 💼 Experience
+<details>
+<summary><b>📄 Expand for details</b></summary>
+<br/>
 
 <table>
 <tr>
-<td valign="top">
+<td width="12%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
+</td>
+<td>
 
-![Role](https://img.shields.io/badge/.NET%20%26%20Angular%20Developer-Neptron-512BD4?style=flat-square&logo=dotnet)
-&nbsp;*Aug 2025 – Dec 2025*
+**🔷 .NET / Angular Developer** @ **Neptron** · `Aug – Dec 2025`
 
-Retail-POS full-stack · Angular + ASP.NET Core + SQL Server · REST APIs · CI/CD
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+Retail-POS full-stack · REST APIs · CI/CD
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
+</td>
+<td>
 
-![Role](https://img.shields.io/badge/Backend%20Developer%20Intern-India%20Bison%20%28Remote%29-009688?style=flat-square&logo=python)
-&nbsp;*Aug 2024 – Aug 2025*
+**🔷 Backend Developer Intern** @ **India Bison** (Remote) · `Aug 2024 – Aug 2025`
 
-E-Commerce Intelligence Platform · Python + crawl4ai · **65% metadata reduction** · FastAPI · Redis · Docker on AWS ECS · CloudWatch
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+
+E-Commerce Intelligence Platform · **65% metadata reduction** · crawl4ai
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
+</td>
+<td>
 
-![Role](https://img.shields.io/badge/Python%20Developer-Anjani%20Shipping%20Agency-3776AB?style=flat-square&logo=python)
-&nbsp;*Aug 2023 – Aug 2024*
+**🔷 Python Developer** @ **Anjani Shipping Agency** · `Aug 2023 – Aug 2024`
 
-Import/Export Management web app · Flask + SQL Server + Pandas · CKAN trade data integration
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+Import/Export Management · CKAN trade data
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
+</td>
+<td>
 
-![Role](https://img.shields.io/badge/Cloud%20Dev%20Intern-Happiest%20Minds%20Technologies-FF9900?style=flat-square&logo=amazonaws)
-&nbsp;*Jun 2023 – Aug 2023*
+**🔷 Cloud Development Intern** @ **Happiest Minds** · `Jun – Aug 2023`
 
-AWS Lambda · EC2 · S3 · API Gateway · ReactJS + Node.js · **15% service downtime reduction** · IoT automation
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+Lambda · EC2 · S3 · API Gateway · **15% downtime reduction**
 
 </td>
 </tr>
 </table>
 
----
+</details>
+
+<br/>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONNECT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Talk
 
 <div align="center">
 
-## 📫 Let's Connect
+<a href="https://www.linkedin.com/in/prathamesh-shivale-5b074a230/">
+  <img src="https://img.shields.io/badge/-%40prathamesh--shivale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://prathameshshivale.lovable.app">
+  <img src="https://img.shields.io/badge/-Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=0D1B2A" />
+</a>
+&nbsp;
+<a href="mailto:pshivale21@gmail.com">
+  <img src="https://img.shields.io/badge/-pshivale21@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://wa.me/918169703820">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-shivale-5b074a230/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=firefox&logoColor=black)](https://prathameshshivale.lovable.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pshivale21@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918169703820)
+<br/><br/>
 
-*Open to Backend · AI/ML · Full-Stack · Remote opportunities*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+<br/>
+
+---
+
+<sub>⚡ *"Systems that survive production are worth more than systems that survive presentations."*</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0D1B2A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A2540,100:00D4FF&height=150&section=footer&fontSize=0" width="100%" />
