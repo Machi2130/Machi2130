@@ -21,6 +21,26 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TERMINAL BOOT SEQUENCE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+```console
+prathamesh@navi-mumbai:~$ whoami
+> Backend & AI/ML Engineer — 2+ years shipping production systems
+
+prathamesh@navi-mumbai:~$ cat /proc/interests
+> algorithmic-trading  |  nl-to-sql  |  legal-nlp  |  rag-pipelines  |  mcp-servers
+
+prathamesh@navi-mumbai:~$ uptime
+> coding since 2023 — currently paper-trading an algo system on NSE
+
+prathamesh@navi-mumbai:~$ cat ~/.status
+> 🟢 open to remote / full-time / relocation
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -176,6 +196,45 @@ Complete backend for users, teams, boards, and task workflows. Abstract base cla
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HOW IT ALL CONNECTS — SYSTEM ARCHITECTURE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🧩 How It All Connects
+
+> *This isn't a list of buzzwords — it's how I actually think about systems.*
+
+```mermaid
+graph TD
+    subgraph DATA["📊 Data Layer"]
+        D1["NSE Market Data\n139 stocks · 11 years"]
+        D2["Legal Corpus\n10K+ judgments"]
+        D3["SQL Databases\n7 types"]
+    end
+
+    subgraph AI["🤖 Intelligence Layer"]
+        A1["Walk-Forward\nBacktester"]
+        A2["Jina + PyTorch\nSemantic Search"]
+        A3["BM25 + Vector\nHybrid Retrieval"]
+    end
+
+    subgraph PROD["🚀 Production Layer"]
+        P1["Angel One API\nLive Trading"]
+        P2["Flask REST API\nCase Retrieval"]
+        P3["MCP Server\nClaude & Cursor"]
+    end
+
+    D1 --> A1 --> P1
+    D2 --> A2 --> P2
+    D3 --> A3 --> P3
+
+    style DATA fill:#0A2540,stroke:#00D4FF,color:#E8F4FD
+    style AI fill:#0D1B2A,stroke:#00D4FF,color:#E8F4FD
+    style PROD fill:#0A2540,stroke:#00E676,color:#E8F4FD
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -312,6 +371,30 @@ Lambda · EC2 · S3 · API Gateway · **15% downtime reduction**
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- DEV DASHBOARD -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ⚡ Dev Dashboard
+
+<div align="center">
+
+```
+ ┌──────────────────────────────────────────────────────────────────┐
+ │                                                                  │
+ │   ☕ Coffee to Code Ratio ........... 1 : ∞                     │
+ │   🐛 Bugs Squashed ................. more than I'll admit        │
+ │   🗑️ Lines Deleted > Lines Written .. always                     │
+ │   📊 Databases Wrestled ............ 7 types and counting        │
+ │   🧠 Favourite Debugger ............ print()                     │
+ │   🚀 Deploy on Friday? ............ only if I hate sleep         │
+ │                                                                  │
+ └──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CONNECT -->
