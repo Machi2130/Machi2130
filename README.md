@@ -80,10 +80,7 @@ open_to:
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Machi2130&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8&card_width=340">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machi2130&layout=compact&hide_border=true&langs_count=8&card_width=340" alt="Top Languages" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machi2130&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8&card_width=340" alt="Top Languages" />
 
 </td>
 </tr>
@@ -294,14 +291,10 @@ graph LR
 
 <br/>
 
-<details>
-<summary><b>📄 Expand for details</b></summary>
-<br/>
-
 <table>
 <tr>
 <td width="12%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="50">
 </td>
 <td>
 
@@ -317,7 +310,7 @@ Retail-POS full-stack · REST APIs · CI/CD
 </tr>
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="50">
 </td>
 <td>
 
@@ -335,7 +328,7 @@ E-Commerce Intelligence Platform · **65% metadata reduction** · crawl4ai
 </tr>
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="50">
 </td>
 <td>
 
@@ -351,7 +344,7 @@ Import/Export Management · CKAN trade data
 </tr>
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50">
 </td>
 <td>
 
@@ -366,8 +359,6 @@ Lambda · EC2 · S3 · API Gateway · **15% downtime reduction**
 </td>
 </tr>
 </table>
-
-</details>
 
 <br/>
 
